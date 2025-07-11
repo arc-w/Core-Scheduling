@@ -61,19 +61,19 @@ Speed
 Input Format
 Input will be provided via a text file named input.txt with the following structure:
 N # Number of tasks
-# Task Info (N lines): TaskID Workload Deadline
+Task Info (N lines): TaskID Workload Deadline
 T1_ID T1_Workload T1_Deadline
 T2_ID T2_Workload T2_Deadline
 ...
 TN_ID TN_Workload TN_Deadline
 M # Number of dependencies
-# Dependency Info (M lines): From_TaskID To_TaskID
+Dependency Info (M lines): From_TaskID To_TaskID
 Dep1_From Dep1_To
 Dep2_From Dep2_To
 ...
 DepM_From DepM_To
 K # Number of core types
-# Core Info (K lines): CoreSpeed CorePowerRate
+Core Info (K lines): CoreSpeed CorePowerRate
 Core1_Speed Core1_PowerRate
 Core2_Speed Core2_PowerRate
 ● N, M, K - positive integers
