@@ -1,4 +1,4 @@
-This project is homework from my university. The code is my solution. Here is the homework itself:  
+This project is homework from my university. The code is my solution. Here is the description:  
 # Core Scheduling: Minimizing Energy with Deadlines and Dependency Cycles
 Introduction
 Modern computing systems often feature multiple processing cores with varying performance
